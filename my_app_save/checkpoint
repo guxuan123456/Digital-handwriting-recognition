@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/lenovo/Desktop/Handwritten-Numeral-Recognition-master/my_app_save/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/lenovo/Desktop/Handwritten-Numeral-Recognition-master/my_app_save/model.ckpt"
